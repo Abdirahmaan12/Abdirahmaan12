@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-row: wrap; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" 
     alt="stats" 
