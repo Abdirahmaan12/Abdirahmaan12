@@ -52,23 +52,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&border_radius=10" 
-    alt="GitHub Stats" 
-    width="47%" 
-  />
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=tokyonight&border_radius=10" 
-    alt="GitHub Streak" 
-    width="47%" 
-  />
+<div class="flex justify-center gap-10px">
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" />
 </p>
 
-<p align="center">
+  <p align="center">
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahmaan12&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" 
@@ -76,8 +66,7 @@
     width="60%" 
   />
 </p>
-
-
+</div>
 
  
 
