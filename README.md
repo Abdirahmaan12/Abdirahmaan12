@@ -52,21 +52,20 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-row: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" 
-    alt="stats" 
+    alt="GitHub Stats" 
     width="47%" 
-     style="margin-top: 30px;"
   />
-  
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" 
-    alt="streak" 
+    alt="GitHub Streak" 
     width="47%" 
-     style="margin-top: 30px;"
   />
 </div>
+
 
 
  
