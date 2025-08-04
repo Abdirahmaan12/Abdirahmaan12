@@ -51,8 +51,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
@@ -64,7 +63,8 @@
     alt="GitHub Streak" 
     width="47%" 
   />
-</div>
+
+  </p>
 
 
 
