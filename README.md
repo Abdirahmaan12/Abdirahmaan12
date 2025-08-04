@@ -31,13 +31,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abdirahmaanmoha&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" 
-    width="48%" 
-    alt="Abdirahmaan's GitHub Stats" 
-  />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahugaz&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahugaz&theme=radical" alt="streak" />
+</p>
 
   <!-- GitHub Streak -->
   <img 
