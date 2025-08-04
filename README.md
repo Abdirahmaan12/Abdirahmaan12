@@ -53,14 +53,23 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" width="37%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" 
+    alt="stats" 
+    width="47%" 
+  />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" width="37%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" 
+    alt="streak" 
+    width="47%" 
+  />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahmaan12&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" 
     alt="Top Languages" 
-    width="26%" 
+    width="47%" 
+    style="margin-top: 30px;" 
   />
 </div>
 
