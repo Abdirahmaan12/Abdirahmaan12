@@ -66,13 +66,6 @@
     width="47%" 
      style="margin-top: 30px;"
   />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahmaan12&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" 
-    alt="Top Languages" 
-    width="47%" 
-    style="margin-top: 30px;" 
-  />
 </div>
 
 
