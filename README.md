@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋, I'm Abdullah Ugaz
+Front End Developer | Transitioning to Fullstack | Open Source Enthusiast
+🧑‍💻 About Me
 
-<!--
-**Abdirahmaan12/Abdirahmaan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on improving my Fullstack skills
+🌱 I’m learning React.js, Node.js, Express, MongoDB
+📫 How to reach me: [abdullahugaz@gmail.com]
+💬 Ask me about HTML, CSS, JavaScript, React, Git
+👯 I’m looking to collaborate on real-world projects and internships
+⚡ Fun fact: I watch anime and love to write clean code 💻
+📚 Languages and Tools:
 
-Here are some ideas to get you started:
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+
+stats streak
+
+📫 Connect With Me
+
+  
