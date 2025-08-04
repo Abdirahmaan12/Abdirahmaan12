@@ -31,18 +31,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="ceneter">
+<p align="flex ceneter">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" />
 </p>
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=abdirahmaanmoha&theme=tokyonight&border_radius=10&hide_border=false" 
-    width="48%" 
-    alt="GitHub Streak" 
-  />
-</p>
+ 
 
 ---
 
