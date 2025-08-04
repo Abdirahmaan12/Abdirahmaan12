@@ -31,10 +31,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="flex ceneter gap-10">
+<div class="flex justify-center gap-10">
+  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" />
 </p>
+</div>
+
 
  
 
