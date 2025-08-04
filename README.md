@@ -32,10 +32,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdirahmaanmoha&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
-</p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdirahmaanmoha&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" 
+    width="48%" 
+    alt="Abdirahmaan's GitHub Stats" 
+  />
 
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=abdirahmaanmoha&theme=tokyonight&border_radius=10&hide_border=false" 
+    width="48%" 
+    alt="GitHub Streak" 
+  />
+</p>
 
 ---
 
