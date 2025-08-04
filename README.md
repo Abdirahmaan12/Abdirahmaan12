@@ -56,16 +56,13 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" />
-</p>
-
-  <p align="center">
-  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahmaan12&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" 
     alt="Top Languages" 
     width="60%" 
   />
 </p>
+
 </div>
 
  
