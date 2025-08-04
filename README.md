@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Abdirahmaan</h1>
-<h3 align="center">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
+<h1 align="left">Hi there 👋, I'm Abdirahmaan</h1>
+<h3 align="left">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
 
 ---
 
