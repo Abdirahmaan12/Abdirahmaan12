@@ -70,7 +70,7 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdirahman-mohamed-796b91327/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
