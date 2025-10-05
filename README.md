@@ -1,92 +1,76 @@
-<!-- Animated Header Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Abdikarim!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
-</h1>
-
-<p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<h1 align="left">Hi there 👋, I'm Abdirahmaan</h1>
+<h3 align="left">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
 
 ---
 
-## 💻 About Me
-- 🔭 Focused on **building clean & responsive UIs**  
-- 🌱 Learning **React, Node.js, Express, MongoDB**  
-- 💡 Solid with **HTML, CSS, JavaScript, Vue, React, TailwindCSS, Git**  
-- 🎯 Goal: Become a **Fullstack Developer**  
-- ⚡ Fun fact: Favorite movie: **How To Train Your Dragon 🐉**
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on improving my FrontEnd skills  
+- 🌱 I’m learning React.js, Node.js, Express, MongoDB  
+- 💬 Ask me about HTML, CSS, JavaScript, React, Vue, Git  
+- 👯 I’m looking to collaborate on real-world projects and internships  
+- ⚡ Fun fact: I watch anime and love to write clean code  
+- 📫 Reach me at: **abdirahmaanmoha2022@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,mongodb,express" />
-</p>
+## 🧰 Languages and Tools
 
----
-
-## 📊 GitHub Stats & Streak
-<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cabdikariim242&theme=radical" alt="GitHub Streak" width="380" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
 </div>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
-</p>
+
 
 ---
 
-## 🐍 Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/main/github-contribution-grid-snake.svg?user=cabdikariim242&theme=radical" alt="GitHub Contributions Snake" width="700" />
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical" alt="streak" />
 </p>
+
+
+ 
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
-</p>
+## 📫 Connect With Me
 
----
-
-## 🎨 Projects Showcase
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-E-commerce_UI-9cf?style=for-the-badge" alt="Project1"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Rotating_Gallery-F7A?style=for-the-badge" alt="Project2"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Pomodoro_Timer-68D?style=for-the-badge" alt="Project3"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+  <a href="mailto:abdirahmaanmoha2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
+  <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
+  <a href="https://www.linkedin.com/in/abdirahman-mohamed-796b91327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-⚡ Building today for a better tomorrow. Let's code something amazing together! ⚡
 </p>
