@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on improving my FrontEnd skills  
 - 🌱 I’m learning React.js, Node.js, Express, MongoDB  
-- 💬 Ask me about HTML, CSS, JavaScript, React, Vue, Git  
+- 💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Vue, React Native, Git and Github  
 - 👯 I’m looking to collaborate on real-world projects and internships  
 - ⚡ Fun fact: I watch anime and love to write clean code  
 - 📫 Reach me at: **abdirahmaanmoha2022@gmail.com**
