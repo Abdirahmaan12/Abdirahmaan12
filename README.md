@@ -60,6 +60,18 @@
 </p>
 
 
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdirahmaan12&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
+</p>
+
+
+---
+
+
  
 
 ---
