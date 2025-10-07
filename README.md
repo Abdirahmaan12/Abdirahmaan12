@@ -1,5 +1,8 @@
-<h1 align="left">Hi there 👋, I'm Abdirahmaan</h1>
-<h3 align="left">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Samafale&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Samafale!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
+</h1>
 
 ---
 
