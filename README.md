@@ -8,7 +8,7 @@
   <a href="mailto:abdirahmaanmoha2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://samafale.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abdirahman-mohamed-796b91327/" target="_blank">
@@ -94,7 +94,7 @@
   <a href="mailto:abdirahmaanmoha2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://samafale.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abdirahman-mohamed-796b91327/" target="_blank">
