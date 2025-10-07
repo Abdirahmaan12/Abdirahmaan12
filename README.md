@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Samafale!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
 </h1>
 
-<p Align-center>
+<p Align="center">
   <a href="mailto:abdirahmaanmoha2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
